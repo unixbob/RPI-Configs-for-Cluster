@@ -1,0 +1,10 @@
+127.0.0.1	localhost
+::1		localhost ip6-localhost ip6-loopback
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+
+127.0.1.1	RPI1_LNX_1
+192.168.0.1 	rpi1_lnx_1_int	rpi1_lnx_1_int.pi-private.home.local
+192.168.0.11 	rpi1_lnx_4_int	rpi1_lnx_4_int.pi-private.home.local
+192.168.0.12 	rpi3_lnx_2_int	rpi3_lnx_2_int.pi-private.home.local
+192.168.0.13  	rpi2_lnx_3_int	rpi2_lnx_3_int.pi-private.home.local
